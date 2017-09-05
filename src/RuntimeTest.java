@@ -1,6 +1,6 @@
 
 
-
+//create new branch xmg
 public class RuntimeTest {
    public static void main(String[] args) throws Exception {
 	   //获取当前应用程序的 运行时环境
